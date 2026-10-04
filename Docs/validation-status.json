@@ -1,0 +1,32 @@
+{
+  "nativeBuild": "not run in this environment",
+  "simulatorStartup": "configured in both cloud workflows; not executed here",
+  "deviceQA": "not run for v2",
+  "portableChecks": [
+    "Xcode graph",
+    "shared scheme",
+    "resource membership",
+    "8 Swift syntax files",
+    "JSON coordinates/category counts",
+    "plist assets",
+    "YAML",
+    "shell syntax"
+  ],
+  "content": {
+    "realCommunityRecords": 933,
+    "populatedCategories": 38,
+    "emptyDataNeededCategories": 9,
+    "photoLinks": 290,
+    "pumpkinRecords": 0
+  },
+  "nativeCapabilities": [
+    "full-screen SwiftUI",
+    "route planning",
+    "per-category progress",
+    "daily rollover",
+    "dated feed validation",
+    "deep links",
+    "v1 preservation"
+  ],
+  "exactGTAWebParity": false
+}

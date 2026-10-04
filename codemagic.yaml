@@ -1,0 +1,17 @@
+workflows:
+  ios-unsigned:
+    name: M8TP GTA Map — unsigned iPhone IPA
+    instance_type: mac_mini_m2
+    max_build_duration: 30
+    environment:
+      xcode: latest
+    scripts:
+      - name: Validate and build iPhone app
+        script: bash scripts/build-unsigned-ipa.sh
+      - name: Verify native UI startup
+        script: bash scripts/smoke-simulator.sh
+    artifacts:
+      - build/M8TP-GTA-Map-unsigned.ipa
+      - build/SHA256SUMS.txt
+      - build/M8TP-GTA-Map-preview.png
+      - build/smoke-ready.json

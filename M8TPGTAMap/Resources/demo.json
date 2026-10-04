@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "interface-demo-v1",
+  "mapID": "demo-grid-v1",
+  "title": "Interface demo",
+  "coordinateSpace": "normalized-image-v1",
+  "source": "Synthetic interface testing positions on an original grid. These are not GTA locations.",
+  "isDemo": true,
+  "categories": [
+    {
+      "id": "pumpkins",
+      "title": "Jack O\u2019 Lanterns",
+      "symbol": "sparkles",
+      "color": "FFA34C"
+    },
+    {
+      "id": "action-figures",
+      "title": "Action Figures",
+      "symbol": "figure.stand",
+      "color": "B8F86F"
+    },
+    {
+      "id": "playing-cards",
+      "title": "Playing Cards",
+      "symbol": "suit.spade.fill",
+      "color": "BFA7FF"
+    }
+  ],
+  "markers": [
+    {
+      "id": "demo-001",
+      "categoryID": "pumpkins",
+      "title": "Demo location 01",
+      "x": 0.2,
+      "y": 0.25,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-002",
+      "categoryID": "action-figures",
+      "title": "Demo location 02",
+      "x": 0.4,
+      "y": 0.3,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-003",
+      "categoryID": "playing-cards",
+      "title": "Demo location 03",
+      "x": 0.65,
+      "y": 0.25,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-004",
+      "categoryID": "pumpkins",
+      "title": "Demo location 04",
+      "x": 0.7,
+      "y": 0.5,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-005",
+      "categoryID": "action-figures",
+      "title": "Demo location 05",
+      "x": 0.72,
+      "y": 0.52,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-006",
+      "categoryID": "playing-cards",
+      "title": "Demo location 06",
+      "x": 0.4,
+      "y": 0.6,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-007",
+      "categoryID": "pumpkins",
+      "title": "Demo location 07",
+      "x": 0.3,
+      "y": 0.8,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-008",
+      "categoryID": "action-figures",
+      "title": "Demo location 08",
+      "x": 0.5,
+      "y": 0.75,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    },
+    {
+      "id": "demo-009",
+      "categoryID": "playing-cards",
+      "title": "Demo location 09",
+      "x": 0.6,
+      "y": 0.8,
+      "details": "Synthetic marker for testing filters, favorites and collected progress. This is not a real GTA Online location.",
+      "guideURL": null
+    }
+  ]
+}

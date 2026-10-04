@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "gta-online-catalog-v1",
+  "mapID": "gtav-atlas-v1",
+  "title": "GTA Online • base map",
+  "coordinateSpace": "normalized-image-v1",
+  "source": "Map imagery: CreepPork/GTAV-Maps, pinned commit 17b57d9dc15b4a5cbe6179088b2328b9299d308c. Location database pending; categories are navigation templates, not a claim of event availability.",
+  "isDemo": false,
+  "categories": [
+    {
+      "id": "pumpkins",
+      "title": "Jack O’ Lanterns",
+      "symbol": "sparkles",
+      "color": "FFA34C"
+    },
+    {
+      "id": "action-figures",
+      "title": "Action Figures",
+      "symbol": "figure.stand",
+      "color": "B8F86F"
+    },
+    {
+      "id": "playing-cards",
+      "title": "Playing Cards",
+      "symbol": "suit.spade.fill",
+      "color": "BFA7FF"
+    },
+    {
+      "id": "signal-jammers",
+      "title": "Signal Jammers",
+      "symbol": "antenna.radiowaves.left.and.right",
+      "color": "5ED5F5"
+    },
+    {
+      "id": "ld-organics",
+      "title": "LD Organics",
+      "symbol": "leaf.fill",
+      "color": "4CD9A0"
+    },
+    {
+      "id": "movie-props",
+      "title": "Movie Props",
+      "symbol": "film.fill",
+      "color": "FF738C"
+    },
+    {
+      "id": "media-sticks",
+      "title": "Media Sticks",
+      "symbol": "music.note",
+      "color": "E6CB69"
+    },
+    {
+      "id": "treasure-hunts",
+      "title": "Treasure Hunts",
+      "symbol": "diamond.fill",
+      "color": "F4BC70"
+    },
+    {
+      "id": "stunt-jumps",
+      "title": "Stunt Jumps",
+      "symbol": "car.fill",
+      "color": "A0B7FF"
+    },
+    {
+      "id": "gang-attacks",
+      "title": "Gang Attacks",
+      "symbol": "scope",
+      "color": "FF6B6B"
+    },
+    {
+      "id": "services",
+      "title": "Services",
+      "symbol": "wrench.and.screwdriver.fill",
+      "color": "98B4B8"
+    },
+    {
+      "id": "points-of-interest",
+      "title": "Points of Interest",
+      "symbol": "binoculars.fill",
+      "color": "D1E0E2"
+    }
+  ],
+  "markers": []
+}
